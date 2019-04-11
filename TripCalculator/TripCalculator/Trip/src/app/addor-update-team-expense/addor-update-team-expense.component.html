@@ -1,0 +1,16 @@
+d<div>
+  <h2 *ngIf="!TripInfo || TripInfo.id === undefined">Add record</h2>
+  <h2 *ngIf="TripInfo && TripInfo.id !== undefined">Update record (ID: )</h2>
+  <form>
+    <div class="form-group">
+      <label for="name-input">Trip Data</label>
+      <input type="text" id="name-input" [(ngModel)]="TripInfo.name" name="name" class="form-control" />
+    </div>
+    <div class="form-group">
+      <label for="location-input">Location</label>
+      <input type="text" id="location-input" [(ngModel)]="TripInfo.location" name="location" class="form-control" />
+    </div>
+    <button type="button" class="btn btn-primary" (click)="addOrUpdateTripRecord($event);">Save</button>
+
+  </form>
+</div>

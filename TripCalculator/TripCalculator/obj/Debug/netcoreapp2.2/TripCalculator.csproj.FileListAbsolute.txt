@@ -1,0 +1,14 @@
+C:\Devl\Practice Projects\GitHub\PracticeProjects\TripCalculator\TripCalculator\bin\Debug\netcoreapp2.2\TripCalculator.deps.json
+C:\Devl\Practice Projects\GitHub\PracticeProjects\TripCalculator\TripCalculator\bin\Debug\netcoreapp2.2\TripCalculator.runtimeconfig.json
+C:\Devl\Practice Projects\GitHub\PracticeProjects\TripCalculator\TripCalculator\bin\Debug\netcoreapp2.2\TripCalculator.runtimeconfig.dev.json
+C:\Devl\Practice Projects\GitHub\PracticeProjects\TripCalculator\TripCalculator\bin\Debug\netcoreapp2.2\TripCalculator.dll
+C:\Devl\Practice Projects\GitHub\PracticeProjects\TripCalculator\TripCalculator\obj\Debug\netcoreapp2.2\TripCalculator.csprojAssemblyReference.cache
+C:\Devl\Practice Projects\GitHub\PracticeProjects\TripCalculator\TripCalculator\obj\Debug\netcoreapp2.2\TripCalculator.csproj.CoreCompileInputs.cache
+C:\Devl\Practice Projects\GitHub\PracticeProjects\TripCalculator\TripCalculator\obj\Debug\netcoreapp2.2\TripCalculator.RazorAssemblyInfo.cache
+C:\Devl\Practice Projects\GitHub\PracticeProjects\TripCalculator\TripCalculator\obj\Debug\netcoreapp2.2\TripCalculator.RazorAssemblyInfo.cs
+C:\Devl\Practice Projects\GitHub\PracticeProjects\TripCalculator\TripCalculator\obj\Debug\netcoreapp2.2\TripCalculator.AssemblyInfoInputs.cache
+C:\Devl\Practice Projects\GitHub\PracticeProjects\TripCalculator\TripCalculator\obj\Debug\netcoreapp2.2\TripCalculator.AssemblyInfo.cs
+C:\Devl\Practice Projects\GitHub\PracticeProjects\TripCalculator\TripCalculator\obj\Debug\netcoreapp2.2\TripCalculator.RazorTargetAssemblyInfo.cache
+C:\Devl\Practice Projects\GitHub\PracticeProjects\TripCalculator\TripCalculator\bin\Debug\netcoreapp2.2\TripCalculator.pdb
+C:\Devl\Practice Projects\GitHub\PracticeProjects\TripCalculator\TripCalculator\obj\Debug\netcoreapp2.2\TripCalculator.dll
+C:\Devl\Practice Projects\GitHub\PracticeProjects\TripCalculator\TripCalculator\obj\Debug\netcoreapp2.2\TripCalculator.pdb

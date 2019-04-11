@@ -1,0 +1,23 @@
+<a href="#" id="new-button">New</a>
+<table>
+  <thead>
+    <tr>
+      <th>Username</th>
+      <th>Expense</th>
+      <th>Amount Due</th>
+      <th *ngFor="let UserInfo of teamUserData">{{ UserInfo.name }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let TripInfo of TripData">
+      <td>{{ TripInfo.User }}</td>
+      <td>{{ TripInfo.ExpenseAmt | number: '1.2-2' }}</td>
+      <td>{{ TripInfo.AmountDue | number: '1.2-2' }}</td>
+      <td *ngFor="let UserInfo of teamUserData">{{ UserInfo }}></td>
+      <td>
+        <a href="#" (click)="editRecord(this)">Edit</a>
+        <a href="#" (click)="deleteRecord(this)">Delete</a>
+      </td>
+    </tr>
+  </tbody>
+</table>

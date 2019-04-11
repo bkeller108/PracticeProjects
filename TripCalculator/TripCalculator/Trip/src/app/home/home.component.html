@@ -1,0 +1,8 @@
+<div class="row">
+  <div class="col-md-4">
+    <app-add-or-update-team-expense (TripCreated)="createOrUpdateTrip($event)" [TripInfo]="currentTrip"></app-add-or-update-team-expense>
+  </div>
+  <div class="col-md-8">
+    <app-team-grid [TripData]="TripData" (editClicked)="editClicked($event)" (newClicked)="editClicked($event)" (recordDeleted)="deleteClicked($event)"></app-team-grid>
+  </div>
+</div>
